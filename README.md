@@ -1,1 +1,1 @@
-# Apple-master
+# AppleClone_FrontEnd
